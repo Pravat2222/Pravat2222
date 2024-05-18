@@ -1,0 +1,16 @@
+body {margin: 100px;;
+    padding:0;
+    box-sizing:border-box;
+      background-color: #050405;
+  
+    }
+    .container {
+      background:#8ba066;
+      padding: 20px;
+      border-radius: 8px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+    button{background-color:rgb(237, 14, 237);
+      cursor:pointer;
+    }
+  
